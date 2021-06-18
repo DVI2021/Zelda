@@ -1,0 +1,6 @@
+{
+	"link-standing":{"sx":1,"sy":5,"tileW":45,"tileH":48,"frames":1},
+	"link-walking":{"sx":10,"sy":59,"tileW":32,"tileH":48,"frames":3},
+	"link-jumping":{"sx":0,"sy":160,"tileW":47,"tileH":56,"frames":2},
+	"link-attacking":{"sx":7,"sy":111,"tileW":50,"tileH":44,"frames":1}
+}

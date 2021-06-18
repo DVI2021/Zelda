@@ -1,0 +1,4 @@
+{
+	"stalfos-walking":{"sx":1,"sy":0,"tileW":43,"tileH":48,"frames":3},
+	"stalfos-attacking":{"sx":0,"sy":53,"tileW":44,"tileH":47,"frames":2}
+}

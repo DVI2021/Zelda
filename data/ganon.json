@@ -1,0 +1,4 @@
+{
+	"ganon-walking":{"sx":0,"sy":0,"tileW":60,"tileH":56,"frames":3},
+	"ganon-attacking":{"sx":0,"sy":56,"tileW":77,"tileH":57,"frames":2}
+}

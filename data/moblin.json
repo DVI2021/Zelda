@@ -1,0 +1,6 @@
+{
+	"moblin-walking":{"sx":0,"sy":5,"tileW":52,"tileH":56,"frames":3},
+	"moblin-attacking":{"sx":1,"sy":65,"tileW":52,"tileH":53,"frames":1},
+	"moblin-knee":{"sx":1,"sy":117,"tileW":52,"tileH":52,"frames":2},
+	"moblin-throw":{"sx":0,"sy":165,"tileW":60,"tileH":52,"frames":4}
+}

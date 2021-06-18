@@ -1,0 +1,6 @@
+{
+	"door-close":{"sx":160,"sy":500,"tileW":32,"tileH":48,"frames":1},
+	"door-medium1":{"sx":160,"sy":420,"tileW":32,"tileH":48,"frames":1},
+	"door-medium2":{"sx":160,"sy":355,"tileW":32,"tileH":48,"frames":1},
+	"door-open":{"sx":160,"sy":288,"tileW":32,"tileH":48,"frames":1}
+}
