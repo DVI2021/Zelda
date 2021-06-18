@@ -37,74 +37,74 @@ Las mecánicas principales del juego son las siguientes:
 Los personajes principales del juego son:
 - Link: es el personaje controlado por el jugador
 
-  ![Imagen de Link](https://github.com/FrancG07/DVI-PracticaFinal/blob/main/images/readme-images/Link.png)
+  ![Imagen de Link](https://github.com/DVI2021/Zelda/blob/main/images/readme-images/Link.png)
   
-  - ![Imagen de Espada](https://github.com/FrancG07/DVI-PracticaFinal/blob/main/images/readme-images/sword.png) Arma base de Link que usará en sus ataques
-  - ![Imagen de Rayo](https://github.com/FrancG07/DVI-PracticaFinal/blob/main/images/readme-images/ray.png) Rayo que saldrá de la espada de Link en caso de tener los corazones de vida completos
+  - ![Imagen de Espada](https://github.com/DVI2021/Zelda/blob/main/images/readme-images/sword.png) Arma base de Link que usará en sus ataques
+  - ![Imagen de Rayo](https://github.com/DVI2021/Zelda/blob/main/images/readme-images/ray.png) Rayo que saldrá de la espada de Link en caso de tener los corazones de vida completos
   
 - Enemigos principales: los enemigos en el camino de Link
   - Stalfos
   
-  ![Imagen de un Stalfos](https://github.com/FrancG07/DVI-PracticaFinal/blob/main/images/readme-images/stalfos.png)
+  ![Imagen de un Stalfos](https://github.com/DVI2021/Zelda/blob/main/images/readme-images/stalfos.png)
   
   Enemigo básico del juego, se desplaza lateralmente de forma rápida, tiene poca vida y causa poco daño.
   
   - Armos
 
-  ![Imagen de un Armos](https://github.com/FrancG07/DVI-PracticaFinal/blob/main/images/readme-images/armos.png)
+  ![Imagen de un Armos](https://github.com/DVI2021/Zelda/blob/main/images/readme-images/armos.png)
   
   Enemigo básico del juego, se desplaza lateralmente a velocidad media, tiene vida media y causa daño medio.
   
   - Moblin 
 
-  ![Imagen de un Moblin](https://github.com/FrancG07/DVI-PracticaFinal/blob/main/images/readme-images/moblin.png)
+  ![Imagen de un Moblin](https://github.com/DVI2021/Zelda/blob/main/images/readme-images/moblin.png)
   
   Enemigo especial del juego, con movimiento lateral lento, gran cantidad de vida y mucho daño al golpear de cerca. Si Link se encuentra a rango de él le arrojará lanzas.
   
   - Acheman
   
-  ![Imagen de un Acheman](https://github.com/FrancG07/DVI-PracticaFinal/blob/main/images/readme-images/acheman.png)
+  ![Imagen de un Acheman](https://github.com/DVI2021/Zelda/blob/main/images/readme-images/acheman.png)
   
   Enemigo especial del juego, se desplaza lateralmente por el aire con cambios de sentido aleatorios. Tiene muy poca vida y causa poco daño.
   
   - Militron 
   
-  ![Imagen de Militron](https://github.com/FrancG07/DVI-PracticaFinal/blob/main/images/readme-images/militron.png)
-  ![Imagen de ataque de Militron](https://github.com/FrancG07/DVI-PracticaFinal/blob/main/images/readme-images/militronFire.png)
+  ![Imagen de Militron](https://github.com/DVI2021/Zelda/blob/main/images/readme-images/militron.png)
+  ![Imagen de ataque de Militron](https://github.com/DVI2021/Zelda/blob/main/images/readme-images/militronFire.png)
   
   Minijefe del juego, se desplaza lateralmente de forma lenta con cambios de sentido aleatorios y tiene mucha vida y mucho daño. Si Link tiene el guante recibirá más daño. También arroja bolas de fuego que causan un daño menor.
   
   - Ganon
   
-  ![Imagen de Ganon](https://github.com/FrancG07/DVI-PracticaFinal/blob/main/images/readme-images/ganon.png)
-  ![Imagen de ataque de Ganon](https://github.com/FrancG07/DVI-PracticaFinal/blob/main/images/readme-images/ganonFire.png)
-  ![Imagen de flama de Ganon](https://github.com/FrancG07/DVI-PracticaFinal/blob/main/images/readme-images/flame.png)
+  ![Imagen de Ganon](https://github.com/DVI2021/Zelda/blob/main/images/readme-images/ganon.png)
+  ![Imagen de ataque de Ganon](https://github.com/DVI2021/Zelda/blob/main/images/readme-images/ganonFire.png)
+  ![Imagen de flama de Ganon](https://github.com/DVI2021/Zelda/blob/main/images/readme-images/flame.png)
   
   Jefe final del juego. Se desplaza lateralmente de forma lenta con cambios de sentido aleatorios y arroja fuego que se queda en el suelo. Tiene mucha vida y causa mucho daño.
   
 - Algunos items del juego: unos son aumentos y otros de uso
 
-  ![Imagen de Corazón](https://github.com/FrancG07/DVI-PracticaFinal/blob/main/images/readme-images/heartContainer.png) - Dará un corazón más a Link y curará los dañados o sólo curará un corazón, depende del tipo de corazón
+  ![Imagen de Corazón](https://github.com/DVI2021/Zelda/blob/main/images/readme-images/heartContainer.png) - Dará un corazón más a Link y curará los dañados o sólo curará un corazón, depende del tipo de corazón
   
-  ![Imagen de cura Corazón](https://github.com/FrancG07/DVI-PracticaFinal/blob/main/images/readme-images/heart.png) - Curará un corazón dañado de Link, se encuentra como botín de los enemigos
+  ![Imagen de cura Corazón](https://github.com/DVI2021/Zelda/blob/main/images/readme-images/heart.png) - Curará un corazón dañado de Link, se encuentra como botín de los enemigos
   
-  ![Imagen de la LLave](https://github.com/FrancG07/DVI-PracticaFinal/blob/main/images/readme-images/key.png) - Necesarias para abrir las puertas por el mapa
+  ![Imagen de la LLave](https://github.com/DVI2021/Zelda/blob/main/images/readme-images/key.png) - Necesarias para abrir las puertas por el mapa
   
-  ![Imagen de la Bomba](https://github.com/FrancG07/DVI-PracticaFinal/blob/main/images/readme-images/bomb.png) - Se depositan en el suelo y explotarán al cabo de unos segundos dañando a cualquiera alrededor, se encuentra como botín de los enemigos
+  ![Imagen de la Bomba](https://github.com/DVI2021/Zelda/blob/main/images/readme-images/bomb.png) - Se depositan en el suelo y explotarán al cabo de unos segundos dañando a cualquiera alrededor, se encuentra como botín de los enemigos
   
-  ![Imagen de la Rupia](https://github.com/FrancG07/DVI-PracticaFinal/blob/main/images/readme-images/ruby.png) - Se deposita en el suelo y si es recogido por un enemigo se quedará quieto y o dañará a Link, si no ocurre tras unos segundos volverá a ser una rupia normal, se encuentra como botín de los enemigos
+  ![Imagen de la Rupia](https://github.com/DVI2021/Zelda/blob/main/images/readme-images/ruby.png) - Se deposita en el suelo y si es recogido por un enemigo se quedará quieto y o dañará a Link, si no ocurre tras unos segundos volverá a ser una rupia normal, se encuentra como botín de los enemigos
   
-  ![Imagen del Casco](https://github.com/FrancG07/DVI-PracticaFinal/blob/main/images/readme-images/helmet.png) - Buffo que aumenta la velocidad y altura de salto de Link, una vez obtenido puede activarse y desactivarse su efecto
+  ![Imagen del Casco](https://github.com/DVI2021/Zelda/blob/main/images/readme-images/helmet.png) - Buffo que aumenta la velocidad y altura de salto de Link, una vez obtenido puede activarse y desactivarse su efecto
   
-  ![Imagen del Escudo](https://github.com/FrancG07/DVI-PracticaFinal/blob/main/images/readme-images/shield.png) - Buffo que dará protección a Link contra a los proyectiles que le vengan de frente
+  ![Imagen del Escudo](https://github.com/DVI2021/Zelda/blob/main/images/readme-images/shield.png) - Buffo que dará protección a Link contra a los proyectiles que le vengan de frente
   
-  ![Imagen del Guantelete](https://github.com/FrancG07/DVI-PracticaFinal/blob/main/images/readme-images/gauntlet.png) - Buffo que sirve para hacerle más daño al miniboss Militron, sin el cuál el daño realizado hacia él será reducido
+  ![Imagen del Guantelete](https://github.com/DVI2021/Zelda/blob/main/images/readme-images/gauntlet.png) - Buffo que sirve para hacerle más daño al miniboss Militron, sin el cuál el daño realizado hacia él será reducido
   
-  ![Imagen del Agua](https://github.com/FrancG07/DVI-PracticaFinal/blob/main/images/readme-images/water.png) - Buffo que reduce el daño recibido por ataques de fuego de Ganon y da la capacidad de apagar las llamas que deja golpándolas con la espada.
+  ![Imagen del Agua](https://github.com/DVI2021/Zelda/blob/main/images/readme-images/water.png) - Buffo que reduce el daño recibido por ataques de fuego de Ganon y da la capacidad de apagar las llamas que deja golpándolas con la espada.
   
-  ![Imagen del Libro](https://github.com/FrancG07/DVI-PracticaFinal/blob/main/images/readme-images/libro.png) - Objeto de mapa necesario para pasar al siguiente nivel
+  ![Imagen del Libro](https://github.com/DVI2021/Zelda/blob/main/images/readme-images/libro.png) - Objeto de mapa necesario para pasar al siguiente nivel
   
-  ![Imagen de la Trifuerza](https://github.com/FrancG07/DVI-PracticaFinal/blob/main/images/readme-images/triforce.png) - Objetivo final del juego, conseguido tras derrotar a Ganon
+  ![Imagen de la Trifuerza](https://github.com/DVI2021/Zelda/blob/main/images/readme-images/triforce.png) - Objetivo final del juego, conseguido tras derrotar a Ganon
   
 # Vídeo gameplay
 [Enlace del Vídeo](https://youtu.be/X1Duo10ToR4)
