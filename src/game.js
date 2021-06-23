@@ -29,7 +29,7 @@ var Q = window.Q = Quintus()
 			"moblin-attack.mp3", "moblin-dead.mp3", "heartContainer.png", "heartContainer.json", "lifeIncrease.mp3",
 			"semiHeart.png", "semiHeart.png", "spear.png", "ray.png", "doors.png", "door.json", "shield.png",
 			"helmet.png", "book.png", "gauntlet.png", "water.png", "waterFrames.png", "flame.png", "fireBall.png",
-			"rupee.png", "rupeeFrames.png", "rupee.json", "terraria1.jpg", "Level1bg.png", "Level2bg.png", "rupee.mp3", "shield.mp3",
+			"rupee.png", "rupeeFrames.png", "rupee.json", "Level1bg.png", "Level2bg.png", "rupee.mp3", "shield.mp3",
 			"fire.mp3", "get-item.mp3", "stats-ray.mp3", "text-helmet.mp3", "water.json", "militron.png", "militron.json",
 			"militronFire.png", "militronFire.json", "hyrule-castle.mp3", "credits-music.mp3", "acheman.png", "acheman.json",
 			"ganon.png","ganon.json", "ganonFire.png", "ganonFire.json", "flame.json", "Level3bg.png", "final-battle.mp3",
